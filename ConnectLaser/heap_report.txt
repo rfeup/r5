@@ -1,0 +1,35 @@
+/home/dpo/Desktop/R@F_2017_v5/ConnectLaser/laser 
+Heap dump by heaptrc unit
+21006891 memory blocks allocated : 1539144311/1654675216
+21006888 memory blocks freed     : 1539144087/1654674984
+3 unfreed memory blocks : 224
+True heap size : 1048576
+True free heap : 1046848
+Should be : 1048152
+Call trace for block $B5EA6840 size 32
+  $08175DB0
+  $084411D5
+  $08442D7E
+  $080978AC
+  $08085CBC
+  $08085180
+  $0806D8C6
+  $081E5FA0
+Call trace for block $B62A0E20 size 12
+  $08442D7E
+  $080978AC
+  $08085CBC
+  $08085180
+  $0806D8C6
+  $081E5FA0
+  $08086AF7
+  $081F0DD6
+Call trace for block $B63A8B60 size 180
+  $084430B8
+  $080978AC
+  $08085CBC
+  $08085180
+  $0806D8C6
+  $081E5FA0
+  $08086AF7
+  $081F0DD6
